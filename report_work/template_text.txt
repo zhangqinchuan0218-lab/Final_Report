@@ -1,0 +1,329 @@
+P5: GENG4412/5512 Engineering Research Project
+P8: Final Report Preparation Guide
+P9: Semester 1, 2026
+P20: Associate Professor Jeremy Leggoe
+P21: School of Engineering, University of Western Australia
+P24: Associate Professor Dianne Hesterman
+P25: School of Engineering, University of Western Australia
+P33: © March 2026
+P38: STUDENT DECLARATION
+P41: My contribution to the project
+P43: Provide details here of your contribution to the project and the contribution of others. See Section 2.3 of this guide for more information.
+P51: Use of AI tools
+P53: I have used AI tools in the preparation of my report: Yes/No
+P55: Enter details of how AI tools were used:
+P62: In accordance with University Policy, I certify that:
+P64: The above information is correct, and the attached work submitted for assessment is my own work and that all material drawn from other sources has been fully acknowledged and referenced.
+P67: Student signature   ________________________________		Date   ________________
+P71: Supervisor confirmation
+P72: To the best of my knowledge, the student’s contribution outlined above is correct.
+P75: Supervisor signature   ______________________________		Date   ________________
+P78: Project Summary
+P80: The Project Summary (also known as the synopsis, or abstract) should provide a clear, concise executive summary of the project. It should briefly identify the reasons for undertaking the project, the objectives of the project, the approach(es) used to achieve the objectives, a summary of the key findings or recommendations, and suggestions for future work. It should not exceed one page. It should be placed on a page of its own, immediately following your signed declaration.  Further detail about the project is provided in the main body of the report.
+P83: List of Publications
+P85: If the project has generated manuscripts that have been accepted or submitted to journals or conferences for publication, then a list of these publications should be provided. Only those manuscripts that have already been submitted to a conference or journal should be listed. You do not list any papers that are in the ‘preparation’ phase.  Be sure to state whether a paper has been submitted or has been published.
+P87: For example
+P89: Submitted for publication:
+P91: Student, J. Q., Supervisor, J. M, and Otherguy, R. J. (2026, December 3-6). A novel approach to modelling vortex-induced vibration in underwater pipelines. 25th Australasian Fluid Mechanics Conference, 2026, Sydney, Australia.
+P92: Acknowledgements
+P94: On this page, individuals or organisations that have provided significant assistance to you during the project can be acknowledged. This might include professional support, such as your supervisor or the Engineering Workshop, as well as personal support, such as family.
+P96: Table of Contents
+P98: Signed Declaration 	i
+P99: Project Summary	ii
+P100: List of Publications (if applicable)	iii
+P101: Acknowledgements	iv
+P102: Table of Contents	v
+P103: List of Figures	v
+P104: List of Tables	v
+P105: Nomenclature (if applicable)	vi
+P106: Purpose of the Report	1
+P107: 2.	Report Structure	2
+P108: 2.1 	Overview	2
+P109: 2.2	Title Page	2
+P110: 2.3	Signed Declaration	3
+P111: 2.4	Project Summary	5
+P112: 2.5 	Preamble	5
+P113: 2.6	Formatting Considerations	6
+P114: 3.	Introduction, Literature Review and Project Objectives	10
+P115: 3.1 Introduction	10
+P116: 3.2 Literature Review	10
+P117: 3.3 Project Objectives	11
+P118: 3.4 Layout of Report	11
+P119: 4.	Project Process 	12
+P120: 4.1 Experimental Investigations	12
+P121: 4.2 Modelling Investigations	12
+P122: 4.3 Design Investigations	13
+P123: 4.4 Engineering Practice Investigations	13
+P124: 4.5 Extended Literature Review	13
+P125: 5.	Results and Discussion	14
+P126: 6.	Conclusions and Future Work	16
+P127: References	17
+P128: Appendices	18
+P129: Appendix A: Example Title Pages	19
+P132: List of Figures
+P134: Figure 2.1: Schematic illustration of a nanoindentation model	7
+P135: Figure 2.2:  Extension of Specimen A under axial load	8
+P138: List of Tables
+P140: Table 2.1: Average exposed surface areas of indented reinforcement particles, as determined by analysis of SEM images	8
+P142: Nomenclature
+P144: A	Area of a circle
+P145: r	radius
+P146: v	linear velocity
+P148: w	angular velocity
+P151: 1.	Purpose of the Report
+P153: The purpose of the final report (or indeed any engineering report) is the communication of the project’s motivations and findings to others. For engineering projects, the following elements are usually of interest to the intended audience:
+P154: The project objectives, and the reasons for pursuing these objectives
+P155: The background history and current state of the art
+P156: The techniques, equipment and procedures used in accomplishing the project objectives
+P157: The findings of the investigation, whether they be experimental results, a new design, a suggested change in engineering practice, or a direction for further research
+P158: A discussion of the findings in the context of the original objectives, including limitations of work
+P159: A set of conclusions summarising key outcomes, limitations, and contribution to state of the art
+P160: A discussion of recommended next steps to continue/extend the project and/or how the project findings could be implemented.
+P162: When formulating any report, it is important to understand both the nature of the report’s audience, and the motivations that the audience might have in reading the report. Audiences for engineering reports may include:
+P163: Other professional engineers
+P164: Academic researchers
+P165: Government organisations or parliamentary committees
+P166: Corporate managers, who may or may not have engineering training
+P167: Potential investors/supporters
+P168: The general public (note: GENG4412/5512 final reports are not available to the public)
+P170: The motivations of the audience will vary widely, but may include:
+P171: Determining whether the reported findings have application in the audience’s own projects
+P172: Making a decision on whether to implement the findings or recommendations of the report
+P173: Evaluating whether the proposed design should be adopted
+P174: Continuing or extending the work done by the initial project
+P175: Providing funding to further develop or apply the findings of the report
+P177: For research project final reports, the primary audience will be the marking panel and researchers following up on the investigation in future years. The marking panel members will be academic staff, usually in the School of Engineering, and as such will be experienced researchers and teachers, without necessarily having specific expertise in the subject area of the project. Your report should be written with this in mind.  It should reflect the level of expected expertise of students graduating from the Bachelor of Engineering (Honours) and Master of Professional Engineering. It is strongly recommended that you ask your supervisor to review your draft report and provide feedback.
+P179: It must be understood that the marker(s) will base their mark on the material presented in the report – it must stand alone in reflecting the work that you have completed during the project.
+P180: 2.	Report Structure
+P182: 2.1 	Overview
+P184: The recommended report structure provides a framework for ensuring that the project content is communicated to the audience in a logical fashion. In general, your report will be composed of the following sections:
+P186: Title Page
+P187: Signed Declaration
+P188: Project Summary
+P189: Publications (if applicable)
+P190: Acknowledgements
+P191: Table of Contents
+P192: List of Figures (if applicable)
+P193: List of Tables (if applicable)
+P194: Nomenclature (if applicable)
+P195: Introduction, Literature Review (or Background), and Project Objectives – can be separate sections or combined into one section with sub-sections
+P196: Project Process (change name of section appropriate to your project)
+P197: Results and Discussion
+P198: Conclusions and Future Work
+P199: References
+P200: Appendices
+P202: Given the wide variety of investigations undertaken in the Engineering Research Project units, the structure of the main body of the report may be adjusted to suit a particular investigation. It is preferable, however, that creative energies are focused on the ideas presented in designs, investigations, or experiments rather than on developing novel structures for the report.  You should be able to revise and re-use sections from your Progress Report in your Final Report.
+P204: The word limit is 8000 words. This includes the main body of the report (introduction to conclusions).  It does not include the other parts of the report.  Think carefully about what you include in the main body of the report and what might be included in the appendices.  All key results and findings should be in the main part of the report.  Avoid an unnecessary or repetitive material.
+P206: A PDF version of your report is to be submitted via LMS to Turnitin. A Word or LaTex version of your report with attachments is also to be uploaded through a separate LMS portal for archiving. This can be submitted as a .zip file.
+P208: 2.2	Title Page
+P210: The title page sets the tone for the presentation and professionalism of the entire report. The elements should be arranged in a clear and orderly fashion. Ensure that there are no typographical errors on the title page or elsewhere in the report (as much as possible). Remember – First impressions are critical!
+P212: The title page must include:
+P213: The project title
+P214: The names of the authors. This includes the first author (you) and student number, along with the name(s) of the project supervisor(s)
+P215: The organisational affiliation of all authors. For the most part, this will be the “School of Engineering, University of Western Australia”
+P216: Word count, and
+P217: The date of submission
+P219: This information (except for the word count) is standard on any professional report or manuscript and is all that is required on the cover page. Sample title pages are provided in Appendix A which demonstrate an appropriate arrangement. Images are not required on the cover page and should never be included at the expense of the required information.
+P221: Corporate, UWA, or school logos are not required, nor is it recommended. Most organisations have very strict rules governing their visual identity, which may extend to include the size, placement, and presentation of the logo. UWA is no exception and students have not presented UWA logos in the approved fashion in many instances. Outside organisations may also prohibit students using their logo on the report, as it may incorrectly imply that it is an official corporate document. A logo should only be placed on the cover page with the explicit approval of the relevant organisation.
+P223: 2.3	Signed Declaration
+P225: You are required to complete and sign the declaration page.
+P227: The declaration comprises two sections: My contribution to the project; and Use of AI tools.
+P229: 2.3.1 My Contribution to the Project
+P231: It is important to acknowledge your contribution and the contribution of others in your report. When your report is submitted, it is your contribution that is being assessed – for that reason, it is important to identify any contributions that should be attributed to third parties (others).
+P233: In this section of the declaration, you must clearly identify what your personal contribution to the project was and what others contributed. Some examples:
+P234: You took a mathematical model from the literature (another’s work). You then modified the model, wrote code to simulate the original and modified models, and compared the results.
+P235: Your supervisor gave you a piece of code (another’s work). You then adapted or extended the code for your project.
+P236: You designed a piece of equipment. The Engineering Workshop helped to refine the design and built it for you (another’s work). Explain your part in the design and their part in the design and manufacture.
+P237: Your project built on a previous student project (another’s work). You must clearly identify what they did and what you did. For example, they may have done a literature review last year. You identified a couple of papers they missed, and several new papers published after their review.
+P238: A lab technician prepared test specimens for you (another’s work) and then you performed the experiments. Or you prepared the test specimens and then sent them to a lab to be tested (another’s work). You analysed the results.
+P239: You worked on a larger project with other students. You must clearly identify what you did in the project and what they did. For example, you may have each conducted one experimental test and then shared data with each other.
+P241: 2.3.2	Use Of AI tools
+P243: You are permitted to use AI tools for general research purposes and to check and improve the quality of written English in their report.  You are not permitted to use AI tools to generate content for their report.
+P245: In this section of the declaration, you must provide details of how you have used AI tools in your project and/or in the preparation of assessment items.  If you did not use AI, then state this.
+P247: 2.3.3	Academic Integrity
+P249: Academic Integrity is defined in the University Policy on Academic Integrity as “acting with the values of honesty, trust, fairness, respect and responsibility in learning, teaching and research”. UWA expects the highest degree of academic integrity from all students.
+P251: In constructing your report, it is important to clearly understand practices regarded as plagiarism. Examples of plagiarism include:
+P252: failure to acknowledge source material or unpublished work of other people. Correct method - cite source in text (within report) and add source to the reference list.
+P253: copying graphics without referencing the original work and attributing the work to its rightful author. Correct method - cite the original source at the end of the figure or table title and add source to the reference list.
+P254: copying extensive tracts of text verbatim from reference material, even if the source is properly cited. Occasionally it may be appropriate to quote text directly from another person’s work, placing the text in “quotation marks” and citing the source. However, the extent of such reproduction should almost never exceed one to two sentences, and you should check with your supervisor on the appropriateness of the reproduction. Verbatim reproduction of multiple paragraphs is never acceptable. Correct method – place verbatim text in quotation marks and cite the original source and paper number of source at the end of quote. Add source to the reference list.
+P255: one or more students working together under a project topic and handing in identical submissions.  You must clearly identify your individual contribution and write your report in your own words.  Correct method – clearly identify what work is yours and what work is others.  If you refer to previous work by students – cite name of final report in text and add source to reference list.
+P256: one student copying any part of another person's project.  This is not permitted.
+P258: Plagiarism will not be tolerated in your report and will be prosecuted according to the policies of the University. Plagiarised figures are usually extremely easy for markers to identify, with quick image searches on Google providing documentary proof. Students are advised that software (such as “Turnitin”) will be employed to check for and document copied material in the text.
+P260: Penalties for academic misconduct vary according to the seriousness of the case and may include the requirement to do further work or repeat work; deduction of marks; the award of zero marks for the assessment; failure of one or more units; suspension from a course of study; exclusion from the University; non-conferral of a degree, diploma or other award to which the student would otherwise have been entitled.
+P262: For more information about academic integrity and the levels of academic misconduct please see the University Policy on Academic Integrity.
+P264: For more information on ethical scholarship and the University’s expectations of academic integrity at UWA revisit Academic Conduct Essentials.
+P266: 2.4	Project Summary
+P268: Refer to information provided on page (ii).  In professional practice, for busy readers the Project Summary may be the only part of the report that is read. It will serve as the “shop window” for the report – readers will determine whether the rest of the report is relevant to their interests based on the summary. The importance of first impressions should accordingly be remembered in its preparation. In a professional environment, a poor Project Summary will inhibit the chances of the recommendations or design being adopted; in a school environment, it may leave the marker in a more critical (or negative) state of mind when they read the rest of the report.
+P270: 2.5	Preamble
+P272: The Project Summary is followed by a series of items that convey essential information about the project and the report.  This includes a List of Publications, if the project outcomes have resulted in publications, and a page noting Acknowledgements.  See pages (ii) and (iii) for further information.
+P274: The next section is the Table of Contents. The purpose of this part is to make it easy for readers to find sections in the report; a good Table of Contents enhances the presentation of the report, while a scruffy or (worse) incorrect table will detract from the reader’s overall impression. The Table of Contents in this document provides an example of a suitable format. Listings should be limited to sections (such as the Introduction, or Experimental Method) and sub-sections (major topic headings within the sections); sub-sub-sections are not usually listed in the Table of Contents.
+P276: The remaining elements of the preamble are optional or may not be applicable to your project. These include a List of Figures, List of Tables, and Nomenclature. The List of Figures and List of Tables help the reader to easily locate a figure or table in the report. A Nomenclature section provides a list of the symbols used in the report and their meaning. They are listed in alphabetical order (usually a list of English symbols followed by a list of Greek symbols).  A Nomenclature list is particularly useful if the report introduces many symbols as it allows the reader to refer to one place for the meaning of all symbols. It is important to define symbols when they first appear in the report even if a Nomenclature list is provided.
+P278: While none of these preamble items appear directly in the report marking rubric, they do contribute to the overall presentation of the report, and shortcomings may be reflected in the presentation mark. Importantly, their presence at the front of the report means that their appearance will contribute to the reader’s early impression of the report, and thus may affect their state of mind as they go on to review the main body of the report. For these reasons, it is important that care be exercised in the presentation and review of these elements.
+P280: 2.6	Formatting Considerations
+P282: 2.6.1	Style and Format
+P283: The report should be written in the standard scientific fashion – 3rd person, impersonal. There should be no need to use “I”, “we”, or “you” in a technical report. Where necessary, individuals may be identified directly by name (as if citing a reference).
+P285: In general, this document may serve as a template for the report, although this document does not contain any smart formatting features and will not automatically update fields (e.g., table of contents and figure, table and equation numbers) when changes are made.
+P287: A 2cm margin on all sides of the page is recommended. A 1.15 or 1.5 line spacing is recommended.  Paragraphs should be separated by a single line (as in this document). Text should be left aligned or justified. Page numbers must be included in the footer. Roman numerals (e.g. i, ii, iii, iv, etc.) are usually used for the project summary and preamble elements. The first page of the Introduction is page 1. The font should be of a size that is easily read, for example, 12-point Times or Times New Roman.
+P289: Sections (chapters) should be used to order the content of the report. It is recommended that sections and subsections are clearly denoted, for example: Section heading – 12-point Bold; Subsection heading – 12-point underline; and Sub subsections headings – 12-point italic. Larger font sizes may be used on the title page or to denote sections if desired. In general, a new section starts on a new page. Sub sections and Sub subsections do not start on a new page unless the title ends up at the bottom of one page and the rest of the section is on the next page.
+P291: 2.6.2	Diagrams, Tables and Equations
+P293: Diagrams, graphs, and pictures should be included when they enhance understanding of project material.  Choose a high enough resolution to ensure that images are of high quality.  Always refer to figures, tables, and equations in the text of your report.  Don’t put in an image without explanation.
+P294: Align figures in the centre of the page, and ensure that all figures have a caption, as illustrated in Figure 2.1.  Numbering of figures is sequential, for example: Figure 1, Figure 2, etc.  An alternative method assigns numbers according to section, for example:  Figure 1.1, Figure 1.2, etc for figures in Section 1 and then Figure 2.1, Figure 2.2, etc for figures in Section 2, and so forth.  The same convention is used for tables and equations.
+P296: Figure 2.1:  Schematic illustration of a nanoindentation model.
+P298: Figures may be submitted in colour but choose colour combinations for universal design (e.g., could someone who is red-green colour-blind be able to interpret the figure).  This may become important if markers encounter difficulty in interpreting the figures; make it as easy for them as is possible!
+P300: A schematic diagram or engineering drawing of the test rig, model or specimens should always be provided. It should show the important dimensions and connections and be labelled appropriately.  A carefully drawn set of schematic diagrams or engineering drawings conveys much more information to the reader than a photograph. There are occasions when photographs of rigs or specimens should be included to provide useful and important information regarding the scale of equipment or specimens. Always label key elements in the photograph.
+P302: Do not “copy” schematic illustrations directly from texts, papers, other students’ reports, or web sites without appropriate citation. Think carefully about the quality of any copies.  Copies commonly result in the inclusion of poor resolution images, images that do not include all the necessary information, or images that do not accurately reflect the test rig used for the project. Furthermore, if you fail to cite the source of the reproduced image, you are guilty of plagiarism and will be penalised accordingly. It is important to draw original illustrations where possible to ensure that relevant and accurate information is included. The only exception to this arises in cases where data is being reproduced from previous studies; even then, it is important to recognise that any such data MUST be properly cited (and referenced), and, in the case of material reproduced from texts or journal papers, that the permission of the copyright holder to reproduce the material has been secured if you plan to include their work in conference proceedings or a journal paper.
+P304: Graphs should also be centred on the page and be easy to interpret. Include clear axes (use tick marks, and grid lines if necessary) and labels. If discrete data points have been measured or modelled, then these should be shown on the graph and not replaced by a line. See Figure 2.2 as an example. Where appropriate, error bands for each data point should be included. These will help with any discussion about uncertainty and the significance of the results. If you show more than one set of data on a graph, make sure it is easy to differentiate between the data sets (use different markers and/or line types where appropriate) and include a legend.
+P306: Figure 2.2:  Extension of Specimen A under axial load.
+P308: Tables are usually centrally located, numbered, and provided with captions, as illustrated in Table 2.1.  Be careful with the number of significant figures that you use when giving information.  There is always a limit on measurement accuracy, and this should be used as a guide – e.g., don’t quote ten significant figures unless your measurement method can justify this accuracy.
+P310: Table 2.1: Average exposed surface areas of indented reinforcement particles,
+P311: as determined by analysis of SEM images.
+P313: Where equations enhance the discussion, they should be provided. Equations are usually centred using a centre tab, and all equations should be numbered, with the number being right justified, as illustrated in Equation (2.1).  Equations should be explained in the text, e.g., Equation (2.1) defines the area of a circle, where A is the area and r is the radius, Equation (2.2) relates the linear velocity, vB, of point B undergoing fixed axis rotation at radius rB with angular velocity w.
+P315: (2.1)
+P317: (2.2)
+P319: Symbols in equations should be defined in the text when they first appear and in a list of nomenclature if there are a lot of equations. Place figures, equations and tables close to where they are referred to in the text but avoid large sections of white space on a page where possible (unless it is the end of a section).
+P321: 3.	Introduction, Literature Review and Project Objectives
+P323: Depending on the size of each part, the Introduction, Literature Review, and Project Objectives may be separate sections (chapters), or sub-sections under a single section title. The decision is yours and will depend entirely on whether the format causes the report to “flow” in a more logical fashion.  The marking scheme will not assess any penalty for such a decision – but it should be remembered that the reader’s overall impression plays an important part in determining the marks they assign, and the choice should be made according to which format will give the best flow, and thus the best impression.
+P325: Note: for projects that are primarily an extended literature review, this section would not include key findings of the literature review. The literature review, analysis, and proposals for future actions would replace the section(s) on results and discussion.
+P327: All projects must clearly articulate relevance to engineering and/or engineering practice.
+P329: 3.1 	Introduction
+P331: The introduction should start by setting the scene and defining the specific issue or challenge being addressed by the project. In defining the issue, the implications of the issue for any interested parties, such as a company, the scientific community, government organisations, or affected members of the public, should be discussed. Many projects set out to enhance the engineering and academic communities’ understanding of an issue, which will help guide future research, policy formulation, or planning. For operational problems in a plant, the project may address environmental, health and safety issues, potential production losses, or maintenance requirements. For a design problem, the project may investigate improvements that enable a product to either compete more effectively or enter a new market. For projects dealing with organisational practices, the objectives may relate to the efficiency or effectiveness of operations.
+P333: 3.2 	Literature Review
+P335: Once the issue and its implications have been defined, the next element of the introduction is the literature review, which may be described as a discussion of the background history and the current state of the art (research). The emphasis of the literature review will vary depending on the nature of the project. For research investigations, this review may deal almost entirely with the academic literature. For design projects, existing approaches or designs for the issue of interest would be discussed, with any relevant codes or standards mentioned as well as relevant academic literature. For investigations of engineering practice, current operating practices and standards would be discussed.  For projects that involve industry or other organisations, the history of the issue within that organisation should be explored. All references must be properly cited within the text and in a reference list at the end of the report.  There are different reference styles available.  Ensure you stick to one style throughout your report. The UWA Library (2026) provides guides to assist with referencing styles.  The guides show how sources are cited within the text and in the reference list.
+P337: It is important to remember to carefully review the literature, as opposed to simply surveying the literature. A good literature review provides a critical analysis of the material that is being cited, grouping together similar papers, highlighting unique contributions, and discussing their relevance to the current project, thereby providing a coherent summary of the (relevant) state of the art. In contrast, a literature survey simply sequentially lists paper, devoting a paragraph or sentence to each with no real indication as to their relative importance or relevance. Both may cover the same range of papers, but a properly constructed review demonstrates greater insight on the part of the author and is recognised accordingly in the report marking scheme.
+P339: 3.3	Project Objectives
+P341: The next step is to state your research hypothesis and to describe the specific objectives of your project. These should be clearly expressed, specific, and measurable. Place the objectives in the context of the pre-existing state of the art and the interests of affected organisations or parties. The way in which these objectives will advance the state of the art, or our understanding of an issue should be described. If the project is laying the groundwork for continuing studies, this should be stated, and the ultimate goals of any continuing investigations should be described (i.e., it is quite common for engineering research projects to be a part of larger on-going investigations involving several students and academic staff).
+P343: At this stage, it is often worthwhile, and indeed important, to assess the benefits that would accrue to interested entities from the successful achievement of the objectives. Examples of this include:
+P344: Assessing the positive financial consequences of achieving the objectives (or, conversely, the negative consequences of failing to address the issue)
+P345: Estimating the impact on an entity’s Key Performance Measures
+P346: Addressing the way in which the project findings affect environmental, health and safety issues
+P347: Determining whether an entity’s resources may be more efficiently or effectively deployed
+P349: This aspect is often neglected in student engineering research reports, but it forms an essential element of reports delivered in professional practice. Any report would be enhanced by the inclusion of such a discussion.
+P351: 3.4	Layout of Report
+P353: For longer reports, it is common to include a brief description of the structure and contents of the different sections of the report at the end of the introduction. This may be considered for your report, especially if an unconventional structure is adopted, but is not required.  If you include this, it will eat into your word limit.
+P354: 4.	Project Process
+P356: Choose a name for this section that it is appropriate to your project, e.g., Experimental Method, Model Formulation, Design Approach, Data Collection, or Methodology and Methods.
+P358: This section describes the “process” by which the project objectives were achieved. The nature of this process will vary according to the type of project. The guiding principle for this section is that it should provide all the necessary information for subsequent researchers (students and staff) to be able to repeat the work.
+P360: Elements of this section for different types of investigation could include the following (note that more than one may apply for any given investigation).
+P362: Note: All projects must be both relevant and apply to engineering and engineering practice.
+P364: 4.1 	Experimental Investigations
+P366: For experimental investigations include as a minimum:
+P367: A description of experimental procedures, including references to relevant test standards
+P368: Diagrams and descriptions of experimental apparatus, and their accuracy
+P369: Specimen designs, preparation and/or sources
+P370: A description of any health and safety requirements in the laboratory or the field.  This includes reference to relevant Material Safety Data Sheets (MSDS), if applicable, although it would be usual to relegate the data sheets to an appendix, and
+P371: A description of the methods used to calculate key parameters from the raw data
+P373: For example, to describe a tensile test a drawing of the specimens showing the specimen dimensions should be provided, along with a description of how the specimens were fabricated and prepared for testing (including any heat treatment), the relevant ASTM standard and section(s), the equipment used, gripping arrangements, loading rate, and the method used to measure displacement and strain, and the measurement accuracy. The method used to calculate the elastic modulus, yield strength. Ultimate tensile strength and/or failure strain from the experimental record should also be described.
+P375: 4.2 	Modelling Investigations
+P377: Modelling investigations often include model derivation and then implementation using a software package or written code.  For modelling investigations include as a minimum:
+P378: Model derivation (or modification)
+P379: A description and diagram of the model configuration
+P380: A description of any software tools used and/or created and reason(s) for choice
+P381: Descriptions of the model input options selected (boundary conditions, constitutive behaviours, etc)
+P382: A discussion of the process by which the final model configuration was determined (for example, discussing the tests undertaken to ensure that the model has converged towards the true solution)
+P383: A description of any model validation tests (in some cases, this may appear in the results and discussion section), and
+P384: A discussion of any limitations in the model or software
+P386: 4.3 	Design Investigations
+P388: For design investigations include as a minimum:
+P389: A description of the constraints imposed on the design (space, particular materials, cost limits, etc)
+P390: A discussion of the criteria that will be used to make design choices and evaluate the success of the final design
+P391: A discussion of the ideation process used to generate alternative designs
+P392: Descriptions of any design tools or procedures employed (such as software) and reason(s) for choice
+P393: A discussion of relevant design codes or standards, including sections, or requirements that the design is informed by or must comply with (this may be included in the criteria or constraints)
+P394: A description of any experiments or tests undertaken to evaluate the final design or product (following the guidelines provided above for experimental procedures), and
+P395: A discussion of any health and safety considerations in the fabrication, testing, and operation of any physical prototype.
+P397: 4.4 	Engineering Practice Investigations
+P399: For engineering practice and techno-economic investigations include as a minimum:
+P400: A description of criteria used to choose appropriate methodology (e.g., qualitative versus quantitative, etc.)
+P401: A description of data collection methods (surveys, interviews, literature, focus groups, etc.)
+P402: A description of any required ethics approval and how any constraints were implemented and managed
+P403: A description of the principal information sources, including any relevant codes or standards
+P404: A description of the tools or techniques to be used in formulating any new approaches
+P405: A discussion of the criteria that will be used to make decisions and evaluate the success of any recommended approach, and
+P406: A discussion of limitations of chosen approach and any safety considerations if applicable to the project.
+P408: 4.5 	Extended Literature Review
+P410: For projects that are predominantly a literature review, this section should include:
+P411: A description of data collection methods (e.g., databases/indexes and key search terms)
+P412: A description of the principal information sources and reason(s) for choice
+P413: A discussion of the process used to select and evaluate literature for the review
+P414: Description of primary themes the literature was grouped under and reason(s) for choice.
+P415: 5.	Results & Discussion
+P417: This section is very important.  Make sure the content you write here is clear and defensible.
+P419: This section should provide the results of the investigation, and discuss their implications in the context of the original objectives, the background history, and the pre-existing state of the art. The guiding principle for this section is that it should describe what has been done and demonstrate how well the findings are understood.
+P421: For experimental and modelling studies, the “results” are easy to identify. For design studies, the final design, and the expected or measured performance of that design will represent the “results”. For techno-economic projects, the “results” will be the outcomes of your investigation.
+P423: For an extended literature review project, the findings of the review will form “results”; and the discussion should include critical analysis of the literature and a proposal for future actions based on the results of the review; for example, the design of a future experiment or extension of an existing model, key findings or recommendations to inform future work within an existing research project, and/or financial analysis of options suggested by the literature review.
+P425: Depending on the volume of raw data, it may not be appropriate to present all raw data in the body of the report – it is usual to only provide characteristic elements of the raw data and key results in the main body of the report, and to provide the remainder in an appendix. The results in the main body of the report should present all relevant “analysed” data, in graphical or tabular form (as appropriate). In many instances, it will be appropriate to present “comparative” results – these may be results comparing the behaviour under different sets of conditions, or comparisons of performance under the recommended new approach with former approaches, for example. As much as possible, a format should be selected that permits the results being compared to appear on a single page – it is very difficult for the reader to compare images on multiple pages, or to reconcile tables on different pages.
+P427: Important figures, especially graphs, must be presented in the main text if they are to be discussed. For example, if ten stress-strain plots are available, a single representative, composite, or average plot could be presented in the main text, with the remaining individual plots relegated to the appendix. Think carefully about what to include in the main body of the report and what could be included in the appendices. There is nothing a reader dislikes more than having to hunt in the appendix for figures that illustrate the discussion.
+P429: The purpose of the discussion is to place the results in context and demonstrate your understanding of the implications (and limitations) of the results. The following elements may be present, depending on the nature of the project:
+P431: Compare the findings with any original expectations:
+P432: How did the original hypothesis hold up?
+P433: How has the hypothesis evolved based on the results?
+P434: Does the proposed design meet the original objectives?
+P436: Compare the findings with the pre-existing state of the art:
+P437: How do the results compare with the results of previous investigations?
+P438: How has the investigation added to the body of knowledge in the field?
+P439: How does the new design or procedure improve on existing approaches?
+P441: Compare the proposed approach with alternatives:
+P442: For design and engineering practice investigations, it is important to discuss the alternative approaches that were considered, and the reasons for selecting the final approach.
+P443: Were other modelling tools available? Why were they not adopted? Do they offer any possible advantages for future investigations?
+P445: Discuss the limitations of the current project:
+P446: Do the current experimental rigs or software impose limits on the extent to which the objectives could be explored or on the application of findings?
+P447: What could be done better? Which assumptions should be challenged?
+P448: What does the new design fail to achieve?
+P449: Which aspects of practice were not able to be explored properly?
+P450: Describe any remaining issues.
+P452: It is important that limitations be discussed openly, and not be regarded as negative – it is very important to understand the limitations of a technique to properly interpret and apply results. In many cases, a recognition of the limitations demonstrates an improved understanding as an outcome of the investigation.
+P454: Similarly, it is important that the discussion address any arbitrary choices made during the project. In most projects, it will be necessary to take some arbitrary choices to make progress. These choices should be identified, and alternative approaches should be considered in the discussion. Once again, this should not be viewed negatively – demonstrating an awareness of such choices is a way of displaying the depth to which an issue has been understood and may provide motivation or directions for future studies.
+P456: Remember – all statements and arguments in the report must be supported, either by results, or information available in the literature. This is especially important in the Discussion section. Avoid empty “hand waving”!
+P458: 6.	Conclusions & Future Work
+P460: Conclusions should state concisely the most important findings of the project. This will include:
+P461: A summary of the key arguments / findings developed in the discussion
+P462: An assessment of whether the project objectives have been achieved (and if not, why not), and where they fit into the current state of the art, and
+P463: A description of future work arising from the project (e.g., to address unresolved issues, extend the work, implement findings, etc.)
+P465: Future Work is an important element of this section.  It allows you to demonstrate greater insight into your project and outcomes, and to make recommendations for the next steps.
+P467: While the conclusions section will generally be brief, care should be taken in writing this section. Remember, it will be the last thing that the audience reads, so it will be the last thing on their mind before they decide on the future of the project (in professional practice), or on the mark (right now)!
+P469: References
+P471: The reference list is an important “road map” for anyone following up on the project and may prove to be extremely useful if you continue with similar work, either in your professional career or in postgraduate research.  An example of the APA 7th edition referencing system has been provided in this guide.
+P473: University Library. (2026). Library Guides. University of Western Australia. Retrieved March 10, 2026, from https://guides.library.uwa.edu.au.
+P475: Appendices
+P477: Appendices may be provided as appropriate, especially to provide original data that do not necessarily fit conveniently into the main text. Material typically included in appendices may include:
+P478: Raw experimental data
+P479: Contour plots from modelling software
+P480: Raw images (i.e., images prior to processing or filtering)
+P481: Software (codes) used to compute results
+P482: Results from previous studies
+P484: It is worth reiterating that important figures, especially graphs, must be placed in the main text if they are to be important subjects in the discussion.
+P486: Appendix A: Example Title Page for GENG4412
+P489: GENG4412 Engineering Research Project Part 2
+P490: Final Report
+P492: Project Title Here
+P498: Jamie Q. Student
+P499: Student Number
+P500: School of Engineering, University of Western Australia
+P502: Supervisor: Jessica M. Supervisor
+P503: School of Engineering, University of Western Australia
+P505: Co-Supervisor: Robert J. Otherguy
+P506: Other School or Company Inc.
+P510: Word count: 7400
+P514: School of Engineering
+P515: University of Western Australia
+P518: Submitted: 18 May 2026
+P520: Example Title Page for GENG4412
+P523: GENG5512 MPE Engineering Research Project Part 2
+P524: Final Report
+P526: Project Title Here
+P532: Cecelia Tzaziki
+P533: Student Number
+P534: School of Engineering, University of Western Australia
+P536: Supervisor: Jackie Chan
+P537: School of Engineering, University of Western Australia
+P539: Co-Supervisor: Nicole Mehta
+P540: Other School or Company Inc.
+P544: Word count: 7,903
+P548: School of Engineering
+P549: University of Western Australia
+P552: Submitted: 18 May 2026
+[TABLE 1]
+Material | Indenter | Peak Load (mN) | Particle Area (µm2) | Particle Area (µm2)
+Material | Indenter | Peak Load (mN) | Average | Std Dev
+SiC (Duralcan) | Spherical 5 µm | 100 | 161.82 | 41.88
+MicralTM (ComralTM) | Spherical 10 µm | 200 | 494.62 | 130.43
